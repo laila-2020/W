@@ -1,0 +1,41 @@
+.nav{
+background-color:#1F5A22;
+display:flex;
+justify-content: space-around;
+padding-top:10px;
+padding-bottom:10px;}
+nav a {color:#FBC02D;}
+header img {
+    width:100%;
+    height:80%;
+}
+footer a {color:#FBC02D;margin:20px 20px 20px 20px;padding:20px 20px 20px 20px;font-size:30px}
+.animals { float:left;
+    width:200px;
+    text-align:center;
+    padding:10px;
+margin-bottom:200px;
+height:200px}
+    .animals2 { float:left;
+    width:200px;
+    text-align:center;
+    padding:10px;
+height:100px}
+.funfacts { float:left;
+    width:500px;
+    text-align:center;
+    padding:10px;
+
+height:200px;
+font-size:20px}
+.gallery {
+    display:flex;
+    width: 100%;
+    flex-wrap:wrap;
+}
+.gallery1 {
+    display:flex;
+    width: 100%;
+    flex-wrap:wrap;
+main{background-color:#88E675;}
+footer{float:left}
